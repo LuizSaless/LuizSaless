@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Luiz Sales
 
 - 🌱 Estudando Ruby on Rails
-- 👯 I’m looking to collaborate on ...
 
 <div align="center">
   <a href="https://github.com/LuizSaless">
